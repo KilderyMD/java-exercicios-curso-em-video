@@ -4,5 +4,5 @@ Conteúdo:
 - Aula 1 ao 9
 - Lógica básica
 - Operadores
-- Java Swing
+- Uso introdutório do Java Swing & JavaFX
 - Estruturas simples.
